@@ -1,7 +1,7 @@
 ---
-title: "个人简介"
-date: 2018-12-18T21:38:52+08:00
-lastmod:  2018-12-18T21:41:52+08:00
+title: "About"
+date: 2018-12-17T21:38:52+08:00
+lastmod:  2018-12-17T21:41:52+08:00
 
 # you can close something for this content if you open it in config.toml.
 comment: false
@@ -30,8 +30,6 @@ Timeline | Experience
 [《Swift编程实战》](https://book.douban.com/subject/26943348/)
 
 
-## Project
+## Project Contributor
 [Apache OpenOffice](https://www.openoffice.org/)
-
-
 
