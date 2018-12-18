@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Dec 2018 15:35:25 +0800</lastBuildDate>
     
-	<atom:link href="https://neotype.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neotype.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,7 +16,10 @@
       <pubDate>Tue, 18 Dec 2018 15:35:25 +0800</pubDate>
       
       <guid>https://neotype.github.io/2018/first/</guid>
-      <description>日志预览,内容有待填充。</description>
+      
+        <description>&lt;p&gt;日志预览,内容有待填充。&lt;/p&gt;
+</description>
+      
     </item>
     
     <item>
@@ -25,7 +28,64 @@
       <pubDate>Mon, 17 Dec 2018 21:38:52 +0800</pubDate>
       
       <guid>https://neotype.github.io/about/</guid>
-      <description>Personal Information name：Chen Zuojun email：zjchencdl@gmail.com Education and Career Timeline Experience 2015.07 until now iOS lead at DiDi 2014.07 ~ 2015.06 iOS developer at Meituan 2011.11 ~ 2014.06 C++/iOS developer at IBM 2010.07 ~ 2011.10 C++ developer at Aisino</description>
+      
+        <description>
+
+&lt;h2 id=&#34;personal-information&#34;&gt;Personal Information&lt;/h2&gt;
+
+&lt;p&gt;name：Chen Zuojun&lt;/p&gt;
+
+&lt;p&gt;email：zjchencdl@gmail.com&lt;/p&gt;
+
+&lt;h2 id=&#34;education-and-career&#34;&gt;Education and Career&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Timeline&lt;/th&gt;
+&lt;th&gt;Experience&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2015.07 until now&lt;/td&gt;
+&lt;td&gt;iOS lead at DiDi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2014.07 ~ 2015.06&lt;/td&gt;
+&lt;td&gt;iOS developer at Meituan&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2011.11 ~ 2014.06&lt;/td&gt;
+&lt;td&gt;C++/iOS developer at IBM&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2010.07 ~ 2011.10&lt;/td&gt;
+&lt;td&gt;C++ developer at Aisino&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2004.09 ~ 2010.06&lt;/td&gt;
+&lt;td&gt;Study at Beijing Institute of Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;translation&#34;&gt;Translation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/27013752/&#34;&gt;《高性能iOS应用开发》&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/26943348/&#34;&gt;《Swift编程实战》&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;project-contributor&#34;&gt;Project Contributor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.openoffice.org/&#34;&gt;Apache OpenOffice&lt;/a&gt;&lt;/p&gt;
+</description>
+      
     </item>
     
   </channel>

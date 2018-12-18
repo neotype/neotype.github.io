@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://neotype.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>https://neotype.github.io/2018/first/</loc>
@@ -21,16 +21,6 @@
     <lastmod>2018-12-18T15:35:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neotype.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://neotype.github.io/"
-                />
   </url>
   
   <url>
@@ -52,16 +42,6 @@
     <lastmod>2018-12-18T15:35:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neotype.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://neotype.github.io/categories/"
-                />
   </url>
   
   <url>
@@ -90,16 +70,6 @@
     <lastmod>2018-12-18T15:35:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neotype.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://neotype.github.io/tags/"
-                />
   </url>
   
 </urlset>
