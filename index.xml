@@ -5,9 +5,28 @@
     <link>https://neotype.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Dec 2018 15:35:25 +0800</lastBuildDate>
     
 	<atom:link href="https://neotype.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>first</title>
+      <link>https://neotype.github.io/2018/first/</link>
+      <pubDate>Tue, 18 Dec 2018 15:35:25 +0800</pubDate>
+      
+      <guid>https://neotype.github.io/2018/first/</guid>
+      <description>日志预览,内容有待填充。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://neotype.github.io/about/</link>
+      <pubDate>Mon, 17 Dec 2018 21:38:52 +0800</pubDate>
+      
+      <guid>https://neotype.github.io/about/</guid>
+      <description>Personal Information name：Chen Zuojun email：zjchencdl@gmail.com Education and Career Timeline Experience 2015.07 until now iOS lead at DiDi 2014.07 ~ 2015.06 iOS developer at Meituan 2011.11 ~ 2014.06 C++/iOS developer at IBM 2010.07 ~ 2011.10 C++ developer at Aisino</description>
+    </item>
     
   </channel>
 </rss>

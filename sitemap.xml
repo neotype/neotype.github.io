@@ -2,12 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://neotype.github.io/en/sitemap.xml</loc>
+	   	<loc>https://neotype.github.io/zh-cn/sitemap.xml</loc>
+		
+	   	<lastmod>2018-12-18T15:35:25+08:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://neotype.github.io/zh-cn/sitemap.xml</loc>
+	   	<loc>https://neotype.github.io/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
